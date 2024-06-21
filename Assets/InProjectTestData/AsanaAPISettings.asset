@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43b088dd379866b4ea09e60db1c521b1, type: 3}
+  m_Name: AsanaAPISettings
+  m_EditorClassIdentifier: 
+  customAdapter: {fileID: 0}
+  BaseUrl: 
+  GetReportTags: /GetReportTags
+  LoginEndpoint: Login/
+  LogoutEndpoint: Logout/
+  PostNewTaskDataEndpoint: PostNewTaskData/
+  GetUserWithUniqueId: GetUserWithUniqueId/
+  WorkspaceId: 
+  enablePlayerProjects: 1
+  enableDevProjects: 1
+  asanaProjects: []
+  maxFileSize: 10000000
+  maxFileSizeReducible: 10000000
+  Files: []
+  ArchivedFiles: []
+  recieveTimeout: 5000
+  sendTimeout: 10000
+  loginoutTimeout: 5000
+  dataFetchCooldown: 60
+  headerTitle: 
+  reportDescription: 
+  helpLink: 
+  openHelpLinkWithFallback: 0
+  overviewText: 
+  overviewLink: 
+  openOverviewLinkWithFallback: 0
+  defaultColor: {r: 1, g: 0, b: 0, a: 1}
+  showBrushIndicator: 1
