@@ -13,7 +13,9 @@ MonoBehaviour:
   m_Name: ScriptableObjectTestInProject
   m_EditorClassIdentifier: 
   baseData:
-    gameObject: {fileID: 0}
-    name: 
-    value: 0
-  goRef: {fileID: 0}
+    gameObject: {fileID: 1623684401522679910, guid: e9d56dd18c1de514baa3b545261f34a4, type: 3}
+    name: rfthjvff
+    value: 45
+    lul: 2.1
+  goRef: {fileID: 1623684401522679910, guid: e9d56dd18c1de514baa3b545261f34a4, type: 3}
+  lul: 2.01
