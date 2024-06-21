@@ -1,5 +1,16 @@
 {
   "dependencies": {
+    "com.gentlymadstudios.feedbackservice": {
+      "version": "https://github.com/Gentlymad-Studios/Feedback.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.unity.nuget.newtonsoft-json": "3.0.2",
+        "com.unity.inputsystem": "1.6.3",
+        "com.unity.textmeshpro": "3.0.6"
+      },
+      "hash": "c6e774e0fc1e3e68a4222c8a8eb70d1117dfc82f"
+    },
     "com.gentlymadstudios.reprotest": {
       "version": "https://github.com/Gentlymad-Studios/reproTest.git",
       "depth": 0,
@@ -62,6 +73,22 @@
     },
     "com.unity.ide.vscode": {
       "version": "1.2.5",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.inputsystem": {
+      "version": "1.7.0",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.modules.uielements": "1.0.0"
+      },
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.nuget.newtonsoft-json": {
+      "version": "3.2.1",
       "depth": 1,
       "source": "registry",
       "dependencies": {},

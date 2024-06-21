@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.gentlymadstudios.feedbackservice": "https://github.com/Gentlymad-Studios/Feedback.git",
     "com.gentlymadstudios.reprotest": "https://github.com/Gentlymad-Studios/reproTest.git",
     "com.unity.collab-proxy": "2.3.1",
     "com.unity.feature.development": "1.0.1",
